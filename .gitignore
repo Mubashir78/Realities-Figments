@@ -1,3 +1,5 @@
 
 *.rpyc
 *.rpymc
+*.txt
+*.save
