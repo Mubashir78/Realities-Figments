@@ -1,35 +1,34 @@
-2025-01-13 16:28:36 UTC
+2025-01-13 16:38:12 UTC
 Linux-6.12.6-1-cachyos-x86_64-with-glibc2.40
 Ren'Py 8.3.4.24120703
 
-Early init took 0.14s
+Early init took 0.17s
 Loading error handling took 0.07s
-Loading script took 0.28s
-Loading save slot metadata took 0.05s
+Loading script took 0.29s
+Loading save slot metadata took 0.07s
 Loading persistent took 0.00s
-Running init code took 0.08s
+Running init code took 0.11s
 Loading analysis data took 0.06s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.03s
 Index archives took 0.00s
-Backing up script files to '/home/mobi/.renpy/backups/Realities Figments':
-Dump and make backups took 0.13s
+Dump and make backups took 0.16s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.08s
+Initial gc took 0.11s
 DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.08s
+Init translation took 0.11s
 Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.05s
-Prepare screens took 0.16s
+Load screen analysis took 0.09s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.23s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.06s
+Save bytecode. took 0.00s
 Running _start took 0.00s
-Interface start took 0.25s
+Interface start took 0.34s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -46,7 +45,21 @@ Maximum texture size: 4096x4096
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.01s
+Load screen analysis took 0.08s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
 Load screen analysis took 0.07s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.08s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s

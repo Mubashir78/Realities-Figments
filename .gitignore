@@ -3,3 +3,4 @@
 *.rpymc
 *.txt
 *.save
+game/saves/persistent
