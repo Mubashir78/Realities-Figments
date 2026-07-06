@@ -1,6 +1,6 @@
-
+game/saves/
+game/cache/
+game/gui/
+game/images/
 *.rpyc
 *.rpymc
-*.txt
-*.save
-game/saves/persistent
